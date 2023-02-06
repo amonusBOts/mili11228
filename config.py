@@ -1,0 +1,4 @@
+class Config(object):
+    API_ID = 15395640
+    API_HASH = '342d15c979a8c8384cd42bdb49b1a424'
+    TOKEN = '5998193052:AAGq4u8VrkTXfPQZTFZzP7sA7voeih1V2HY'
